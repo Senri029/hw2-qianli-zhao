@@ -1,0 +1,17 @@
+=== Customer Message ===
+I received the wrong item in my order. I ordered a blue wireless mouse, but I got a black keyboard instead. My order number is 48392.
+
+=== Draft Reply ===
+Subject: Order Issue - Incorrect Item Received
+
+Dear [Customer's Name],
+
+Thank you for reaching out to us regarding your order (Order Number: 48392). I apologize for the mix-up; I understand how frustrating it can be to receive the wrong item.
+
+To resolve this, please confirm if you would like us to send the correct blue wireless mouse and provide instructions on how to return the black keyboard. Once I have this information, I can assist you further.
+
+Thank you for your patience, and I look forward to your reply.
+
+Best regards,  
+[Your Name]  
+Customer Support Team
